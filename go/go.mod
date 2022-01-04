@@ -1,3 +1,3 @@
-module github.com/Thomas-Redding/util
+module github.com/Thomas-Redding/util/go
 
 go 1.17
